@@ -3,7 +3,7 @@
 namespace oop2_o_ {
     internal class midTask01 {
         static void Main(string[] args) {
-            Console.WriteLine("Enter the first number:");
+            Console.WriteLine("Enter the the first number:");
             int a = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Enter the second number:");
